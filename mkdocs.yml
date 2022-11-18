@@ -1,8 +1,12 @@
 site_name: nurjs
-site_url: https://example.com/
+site_url: https://nurjs.com/
 nav:
   - Home: index.md
   - releases: releases.md
+  - contributing: contributing.md
+  - code_of_conduct: code_of_conduct.md
+  - projects:
+    - node-update-release: projects/node-update-release.md
 theme:
   name: material
   font: false
@@ -41,10 +45,9 @@ extra:
 
 plugins:
   - search
-copyright: Copyright &copy; 2022 - 2022 Johannes Losch
 extra:
   generator: false
-repo_url: https://github.com/nurjs/nurjs
+repo_url: https://github.com/nurjs/
 
 markdown_extensions:
   - admonition

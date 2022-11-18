@@ -10,4 +10,9 @@ Since only one month after the release of NUR the usage is shifted.
 ## Our projects
 
 ### [node-update-release](https://github.com/nurjs/node-update-release){target="\_blank"}
-Node update release is our first project to be released. 
+
+Node update release is our first project to be released. Nur was created to update npm packages easy and simple.
+
+It will update the package.json with log file and create a git tag and commit. After creation it will be pushed to git remote origin.
+
+For more information see [node-update-release](./projects/node-update-release.md)
