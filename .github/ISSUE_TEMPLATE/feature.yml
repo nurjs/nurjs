@@ -1,0 +1,43 @@
+name: Feature request
+description: File a feature request
+title: "[feature]: "
+labels: ["feature", "request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info? Please note that the information will be public.
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: dropdown
+    id: project
+    attributes:
+      label: project
+      description: On what project should this feature developed?
+      options:
+        - node-update-release
+        - check-dependencies
+    validations:
+      required: true
+  - type: textarea
+    id: what-do-you-want
+    attributes:
+      label: What do you want?
+      description: Also tell us, what will you expect to happen? How should it happen?
+      placeholder: Tell us what want to see!
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://nurjs.com/code_of_conduct)
+      options:
+        - label: I agree to follow nurjs's Code of Conduct
+          required: true
