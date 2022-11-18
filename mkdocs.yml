@@ -2,7 +2,6 @@ site_name: nurjs
 site_url: https://nurjs.com/
 nav:
   - Home: index.md
-  - releases: releases.md
   - contributing: contributing.md
   - code_of_conduct: code_of_conduct.md
   - projects:
