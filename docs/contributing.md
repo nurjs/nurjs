@@ -28,7 +28,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 This project and everyone participating in it is governed by the
 [NUR Code of Conduct](https://nurjs.com/code_of_conduct).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
-to <hi@jlosch.de>.
+to <contact@nurjs.com>.
 
 ## I Have a Question
 
@@ -88,7 +88,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 #### How Do I Submit a Good Bug Report?
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <hi@jlosch.de>.
+> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <contact@nurjs.com>.
 
 <!-- You may add a PGP key to allow the messages to be sent encrypted as well. -->
 
@@ -130,7 +130,9 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/nurjs/
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 <!--
+
 ### Your First Code Contribution
+
 <!-- TODO
 include Setup of env, IDE and typical getting started instructions?
 
