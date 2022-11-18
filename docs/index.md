@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to NURjs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## what is NUR?
 
-## Commands
+**N**ode **U**pdate **R**elease is a project initiated by [Johannes Losch](https://github.com/johanneslosch) and is released under APACHE-2.0 licence.
+The main purpose of this project was to make it easier to release node projects without having to chage the package.json manually.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Since only one month after the release of NUR the usage is shifted.
 
-## Project layout
+## Our projects
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### [node-update-release](https://github.com/nurjs/node-update-release){target="\_blank"}
+Node update release is our first project to be released. 

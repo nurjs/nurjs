@@ -45,3 +45,12 @@ copyright: Copyright &copy; 2022 - 2022 Johannes Losch
 extra:
   generator: false
 repo_url: https://github.com/nurjs/nurjs
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
