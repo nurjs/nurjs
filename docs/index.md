@@ -16,3 +16,8 @@ Node update release is our first project to be released. Nur was created to upda
 It will update the package.json with log file and create a git tag and commit. After creation it will be pushed to git remote origin.
 
 For more information see [node-update-release](./projects/node-update-release.md)
+
+### [check-dependencies](https://github.com/nurjs/check-depencies){target="\_blank}
+
+Check dependencies is used to have all of your project dependencies up to date.
+For more information see [check-dependencies](./projects/check-dependencies.md)
