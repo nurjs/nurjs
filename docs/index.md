@@ -3,10 +3,10 @@
 ## what is NUR?
 
 **N**ode **U**pdate **R**elease is a project initiated by [Johannes Losch](https://github.com/johanneslosch) and is released under APACHE-2.0 licence.
-The main purpose of this project was to make it easier to release node projects without having to chage the package.json manually.
+The main purpose of this project was to make it easier to release node projects without having to change the package.json manually.
 
 Since only one month after the release of NUR the usage is shifted.
-Now is the reason we exist to make it easier to to maintain node projects, especially webcomponents.
+Now is the reason we exist to make it easier to maintain node projects, especially webcomponents.
 
 ## Our projects
 
