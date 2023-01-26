@@ -22,3 +22,8 @@ For more information see [node-update-release](./projects/node-update-release.md
 
 Check dependencies is used to have all of your project dependencies up to date.
 For more information see [check-dependencies](./projects/check-dependencies.md)
+
+### [readme-generator](https://github.com/nurjs/readme-generator){target="\_blank}
+
+Readme generator is used to generate a readme for [stencil](https://stenciljs.com) projects.
+For more information see [readme-generator](./projects/readme-generator.md)
